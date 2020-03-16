@@ -11,9 +11,49 @@
   width: 100%;
 }
 
+.customize-columna{
+
+}
 
 .customize-name{
   padding-bottom: 5%;
   padding-left: 2%;
+
 }
 
+.customize-contacto h5{
+  margin-top: 1%;
+  padding-top: 3%;
+  padding-left: 2% ;
+  padding-bottom: 3%;
+}
+
+.customize-icons{
+  width: 30px;
+  height: 30px;
+}
+
+.customize-habilidades{
+  padding-top: 3%;
+}
+
+.customize-habilidades div h5 img{
+  width: 20px;
+  height: 20px;
+}
+
+.customize-datos-basicos div h5 img{
+  width: 20px;
+  height: 20px;
+}
+
+
+@media (max-width: 769px) {
+  .customize-datos-basicos{
+    padding-top: 5%;
+  }
+}
+
+.customize-experiencia{
+  padding-top: 3%;
+}
