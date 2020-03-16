@@ -94,4 +94,9 @@ a:link, a:visited, a:active {
   font-style: italic;
 }
 
+.customize-footer{
+  margin-top: 1%;
+  background-color: #DEDEDE;
+}
+
 
